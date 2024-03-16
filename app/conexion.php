@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $db   = 'libertadores';
-$user = 'instalador';
-$pass = '15036221';
+$user = 'root';
+$pass = '';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
